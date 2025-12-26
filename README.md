@@ -69,13 +69,6 @@ build_exe.bat
 - `dist\HandMouse\HandMouse.exe`
 - `dist\HandMouse\models\hand_landmarker.task`
 
-### Share to others
-Zip and share the entire folder:
-- `dist\HandMouse\`
-
-They run:
-- `HandMouse.exe`
-
 ---
 
 ## Git Notes (Model File)
